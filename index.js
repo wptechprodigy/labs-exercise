@@ -5,3 +5,7 @@ function add(a, b) {
 function greetings() {
 	return 'Hello!';
 }
+
+function divide(a, b) {
+	return a / b;
+}
